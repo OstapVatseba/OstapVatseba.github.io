@@ -1,0 +1,52 @@
+{
+  "blogPosts": [
+    {
+      "image": "blog1.jpg",
+      "alt": "Blog Post 1",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "Believing neglected so so allowance existence departure.",
+      "description": "End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
+    },
+    {
+      "image": "blog2.jpg",
+      "alt": "Blog Post 2",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "In design active temper be uneasy. Thirty for remove plenty regard you.",
+      "description": "End-to-end payments and financial management in a single solution. Meet the right platform to help realize."
+    },
+    {
+      "image": "blog3.jpg",
+      "alt": "Blog Post 3",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "Partially on or continuing in particular principles",
+      "description": ""
+    },
+    {
+      "image": "blog4.jpg",
+      "alt": "Blog Post 4",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "Do believing oh disposing to supported allowance we.",
+      "description": ""
+    },
+    {
+      "image": "blog5.jpg",
+      "alt": "Blog Post 5",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "Village did removed enjoyed explain nor ham saw.",
+      "description": ""
+    },
+    {
+      "image": "blog6.jpg",
+      "alt": "Blog Post 6",
+      "date": "2021-08-11",
+      "category": "Category",
+      "title": "Securing as informed declared or margaret.",
+      "description": ""
+    }
+  ]
+}
