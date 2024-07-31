@@ -365,7 +365,6 @@ padding-left: 60px;
     font-size: 30px;
     color: #333;
     margin-bottom: 20px;
-    
     line-height: 1.2;
 }
 .why-choose-us-text p {
@@ -862,4 +861,111 @@ footer {
 .footer-column a:hover {
     color: #000;
     text-decoration: underline;
+}
+@media (max-width: 767px) {
+    .container {
+        width: 100%;
+        padding: 0 70px;
+    } 
+    .nav-links {
+        display: flex;
+        flex-direction: column;
+       align-items: normal;
+      padding-right: 200px;
+  }
+    .hero-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .hero-text {
+        width: 100%;
+        margin-left: 0;
+    }
+    .signup-form {
+        width: 100%;
+        margin: 20px 0 0;
+    }
+    .trusted h2{
+       padding-right: 130px; 
+    }
+    .trusted-logos img {    
+       width: 80px;
+        margin: 10px 5px;
+        padding-right: 100px; 
+    }
+    .believing{
+        padding-right: 130px;
+    }
+    .features-container, .features-extended-items {
+        flex-direction: column;
+        padding-left: 5px;
+    }
+    .feature, .features-extended-container .feature {
+        width: 90%;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .crypto-portfolio{
+        padding-right: 130px;
+    }
+   .why-choose-us-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .verified-users,
+    .user-profile,
+    .why-choose-us-text {
+     width: 400px;
+     height: 300px;
+     margin-bottom: 30px;
+     text-align: center;
+     padding: 0 20px; 
+     box-sizing: border-box; 
+    }
+    .user-profile {
+        position: static; 
+        margin-top: 20px; 
+    }
+    .verified-users img,
+    .user-profile img {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%; 
+        height: auto;
+    }
+    .verified-users ul,
+    .user-profile ul,
+    .why-choose-us-text ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    .verified-users ul li,
+    .user-profile ul li,
+    .why-choose-us-text ul li {
+      margin-bottom: 10px;
+      text-align: center;
+      padding-right: 100px;
+    }
+     .features-extended {
+      padding-right: 130px;
+      }
+
+      .preference-items {
+        flex-direction: column;
+
+      }
+     .testimonials h2 {
+    text-align: center; 
+    margin-left: -90px; 
+}
+    .testimonial-content {
+        flex-direction: column;
+    }
+    }
+    .testimonial-image, .testimonial-text {
+        width: 650px;
+        margin-bottom: 20px; 
+    }
 }
